@@ -1,3 +1,3 @@
 # Demo
 
-This is a description of the demo file!
+Demo for GitHub intro video
